@@ -1,0 +1,11 @@
+
+Wsquid:S18540";Remove this useless assignment to local variable "rootObj".(ÕôçÒþÿÿÿÿ
+^squid:S22594"GA "NullPointerException" could be thrown; "jsonArray" is nullable here.(ˆ±ýŸ
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Õò‚‘üÿÿÿÿ
+Hsquid:S14810",Remove this unused "rootObj" local variable.(ÕôçÒþÿÿÿÿ
+Dsquid:S1481'"(Remove this unused "emp" local variable.(Éò‚•øÿÿÿÿ
+Isquid:S1135"2Complete the task associated to this TODO comment.(àòã©
+Fsquid:S00108;")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¢±ðÑ

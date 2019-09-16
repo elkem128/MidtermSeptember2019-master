@@ -1,0 +1,8 @@
+
+Osquid:S1172",Remove this unused method parameter "array".(Š¾ù¶úÿÿÿÿ8®–‘ÁÓ-
+osquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Š¾ù¶úÿÿÿÿ8®–‘ÁÓ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ­öÇ8®–‘ÁÓ-
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(İ­öÇ8Ç“ÁÓ-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¾ù¶úÿÿÿÿ8®–‘ÁÓ-

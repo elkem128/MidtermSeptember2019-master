@@ -1,0 +1,15 @@
+
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(üèÂçøÿÿÿÿ8è¶í¾Ó-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ªÝ¥8è¶í¾Ó-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(˜Âï½8è¶í¾Ó-
+bsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(²Áò
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(û¼ìà8è¶í¾Ó-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«š­Û8è¶í¾Ó-
+U
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Û©²8è¶í¾Ó-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(«á·Í8è¶í¾Ó-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜Š”²8è¶í¾Ó-

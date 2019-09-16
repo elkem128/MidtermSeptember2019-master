@@ -1,0 +1,8 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(† ×´8ŸµÁÓ-
+Bsquid:S1659"Declare "j" on a separate line.(„±ûâÿÿÿÿÿ8«‹ºÁÓ-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(† ×´8«‹ºÁÓ-
+Bsquid:S1659"Declare "j" on a separate line.(„±ûâÿÿÿÿÿ8ŸµÁÓ-
+Dsquid:S1172"&Remove these unused method parameters.(¬È×8ŸµÁÓ-

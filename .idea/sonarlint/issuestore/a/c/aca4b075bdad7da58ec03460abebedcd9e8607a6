@@ -1,0 +1,14 @@
+
+psquid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(™»
+Esquid:S1481/")Remove this unused "list" local variable.(ÍÈ¦ˆüÿÿÿÿ
+Csquid:S1481*",Remove this unused "pathQtp" local variable.(¸øş
+Gsquid:S14815"0Remove this unused "qtpStudents" local variable.(™»
+Vsquid:S18545"?Remove this useless assignment to local variable "qtpStudents".(™»
+usquid:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÈ¦ˆüÿÿÿÿ
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(§±¡şÿÿÿÿ
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ŞõÆ¶
+Rsquid:S1854*";Remove this useless assignment to local variable "pathQtp".(¸øş
+Tsquid:S1854/"8Remove this useless assignment to local variable "list".(ÍÈ¦ˆüÿÿÿÿ
+usquid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú§º¿ıÿÿÿÿ
+`squid:S18544"DRemove this useless assignment to local variable "seleniumStudents".(Ú§º¿ıÿÿÿÿ

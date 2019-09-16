@@ -1,0 +1,23 @@
+
+|squid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìè¸øüÿÿÿÿ8ãĞ¾Ó-
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(şï•ß8ãĞ¾Ó-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(ƒ…ªÿÿÿÿÿ8ãĞ¾Ó-
+jsquid:S2095+"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–8ì÷Ò¾Ó-
+Ssquid:S1854"<Remove this useless assignment to local variable "textFile".(Ø‡ê»
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Œ«Èç8ãĞ¾Ó-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8ãĞ¾Ó-
+wsquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¦Š¾8ãĞ¾Ó-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¥¹ê8ãĞ¾Ó-
+V
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¯àÅÊ8ãĞ¾Ó-
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(³úà–8ãĞ¾Ó-
+Dsquid:S1481"-Remove this unused "textFile" local variable.(Ø‡ê»
+ksquid:S2095#"HUse try-with-resources or close this "FileReader" in a "finally" clause.(™Ô‡«øÿÿÿÿ8ì÷Ò¾Ó-
+ssquid:S11497"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ìè¸øüÿÿÿÿ8ì÷Ò¾Ó-
+:squid:S1643."Use a StringBuilder instead.(ŠŒ­ı8ãĞ¾Ó-

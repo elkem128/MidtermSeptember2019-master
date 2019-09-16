@@ -1,0 +1,15 @@
+
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(®†˜„8€‹å”Ó-
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¼÷Èõşÿÿÿÿ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Û¯Çüÿÿÿÿ
+5squid:S2119@"Save and re-use this "Random".(¡Å”¦
+^squid:S14810";Remove this unused "mergeSortExecutionTime" local variable.(Ğ‘ŒÍüÿÿÿÿ8»Øã”Ó-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê±Ï¯ÿÿÿÿÿ
+msquid:S18540"JRemove this useless assignment to local variable "mergeSortExecutionTime".(Ğ‘ŒÍüÿÿÿÿ8»Øã”Ó-
+:squid:S21199"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(®†˜„8âîÜ”Ó-

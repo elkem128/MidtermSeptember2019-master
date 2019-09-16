@@ -1,0 +1,16 @@
+
+xsquid:S1488?"\Immediately return this expression instead of assigning it to the temporary variable "list".(ñÆŸøÿÿÿÿ
+xsquid:S1488b"\Immediately return this expression instead of assigning it to the temporary variable "list".(ñÆŸøÿÿÿÿ
+qsquid:S4144Z"ZUpdate this method so that its implementation is not identical to "bubbleSort" on line 62.(ôô´°
+gsquid:HiddenFieldCheck9"@Rename "executionTime" which hides the field declared at line 5.(ê‹´úÿÿÿÿ
+vsquid:S4144a"ZUpdate this method so that its implementation is not identical to "bubbleSort" on line 62.(±Ç¿šúÿÿÿÿ
+vsquid:S4144E"ZUpdate this method so that its implementation is not identical to "bubbleSort" on line 62.(ö¾ºşÿÿÿÿ
+xsquid:S1488T"\Immediately return this expression instead of assigning it to the temporary variable "list".(ñÆŸøÿÿÿÿ
+vsquid:S4144L"ZUpdate this method so that its implementation is not identical to "bubbleSort" on line 62.(éó¬¦úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ
+xsquid:S1488F"\Immediately return this expression instead of assigning it to the temporary variable "list".(ñÆŸøÿÿÿÿ
+vsquid:S4144S"ZUpdate this method so that its implementation is not identical to "bubbleSort" on line 62.(ƒÉ¬Ìúÿÿÿÿ
+xsquid:S1488M"\Immediately return this expression instead of assigning it to the temporary variable "list".(ñÆŸøÿÿÿÿ
+gsquid:HiddenFieldCheck""@Rename "executionTime" which hides the field declared at line 5.(ê‹´úÿÿÿÿ
+xsquid:S1488["\Immediately return this expression instead of assigning it to the temporary variable "list".(ñÆŸøÿÿÿÿ

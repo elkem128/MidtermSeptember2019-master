@@ -1,0 +1,5 @@
+
+^squid:S1854"BRemove this useless assignment to local variable "connectToSqlDB".(ù­Ç‰þÿÿÿÿ
+Osquid:S1481"3Remove this unused "connectToSqlDB" local variable.(ù­Ç‰þÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÕÑ³þÿÿÿÿ8Õå‰¾Ó-

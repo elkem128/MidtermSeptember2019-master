@@ -1,0 +1,11 @@
+
+Gsquid:S1481"0Remove this unused "wordNLength" local variable.(›ÅÃş
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Éâ¯
+Vsquid:S1854"?Remove this useless assignment to local variable "wordNLength".(›ÅÃş
+Csquid:S1481"'Remove this unused "st" local variable.(¡ñğÕùÿÿÿÿ
+Lsquid:S1481!")Remove this unused "word" local variable.(Ş»ëÿÿÿÿÿ8ìºêÁÓ-
+Ksquid:S1481 "(Remove this unused "max" local variable.(“»ïüøÿÿÿÿ8ìºêÁÓ-
+Usquid:S1854#"7Remove this useless assignment to local variable "max".(ü’ø8ìºêÁÓ-
+Vsquid:S1854$"8Remove this useless assignment to local variable "word".(óã¤½8ìºêÁÓ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(È×÷8¾¢ğÁÓ-

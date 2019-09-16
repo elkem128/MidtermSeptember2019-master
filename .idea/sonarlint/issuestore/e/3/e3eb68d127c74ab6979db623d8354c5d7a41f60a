@@ -1,0 +1,10 @@
+
+Hsquid:S1481*"*Remove this unused "count" local variable.(æÕ¿¼8èÍøÁÓ-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Üı‚½ûÿÿÿÿ8èÍøÁÓ-
+?squid:S1643"Use a StringBuilder instead.(õÖ‘‹üÿÿÿÿ8èÍøÁÓ-
+vsquid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Šü8èÍøÁÓ-
+rsquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àî‹úûÿÿÿÿ8èÍøÁÓ-
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Šü8èÍøÁÓ-
+Ksquid:S1481)"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ8èÍøÁÓ-
+Rsquid:S2864+"4Iterate over the "entrySet" instead of the "keySet".(ÇÂ¯8èÍøÁÓ-

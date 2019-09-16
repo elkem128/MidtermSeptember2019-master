@@ -1,0 +1,26 @@
+
+Esquid:S1068"'Remove this unused "dep" private field.(æßÅ8öÕÀÓ-
+V
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¨¬É¾8öÕÀÓ-
+Tsquid:S2209‰"5Change this instance-reference to a static reference.(ıÄ²8öÕÀÓ-
+Ysquid:S2209Š"5Change this instance-reference to a static reference.(Ó«Úœúÿÿÿÿ8öÕÀÓ-
+Hsquid:S1905‰")Remove this unnecessary cast to "double".(ıÄ²8öÕÀÓ-
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(õ¦Åç8öÕÀÓ-
+psquid:S1450"RRemove the "dep" field and declare it as a local variable in the relevant methods.(æßÅ8öÕÀÓ-
+Xsquid:S2209~"5Change this instance-reference to a static reference.(§€Ìøüÿÿÿÿ8öÕÀÓ-
+…"squid:ClassVariableVisibilityCheck"PMake year a static final constant or non-public and provide accessors if needed.(¬ğ€Ñ8öÕÀÓ-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(¢¨ı¯8öÕÀÓ-
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(÷é¥êıÿÿÿÿ8öÕÀÓ-
+squid:S1488”"bImmediately return this expression instead of assigning it to the temporary variable "actualDate".(ÍÅˆ±8öÕÀÓ-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õ«’ùÿÿÿÿ8öÕÀÓ-
+[
+squid:S106b"9Replace this use of System.out or System.err by a logger.(µâº¯şÿÿÿÿ8öÕÀÓ-
+\
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(´ëÏÆşÿÿÿÿ8öÕÀÓ-
+V
+squid:S106f"9Replace this use of System.out or System.err by a logger.(áü‰¦8öÕÀÓ-
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ıÄ²8öÕÀÓ-
